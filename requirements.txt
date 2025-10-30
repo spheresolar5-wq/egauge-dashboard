@@ -1,0 +1,8 @@
+dashhttps://github.com/spheresolar5-wq/egauge-dashboard/blob/main/requirements
+plotly
+pandas
+requests
+dash-bootstrap-components
+pytz
+numpy
+
